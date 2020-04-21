@@ -19,6 +19,8 @@ scikit-image
 负样本：neg_person：4146
 
 ## Install
+for python 3.7  
+pip install joblib  
 
 ```
 git clone git@github.com:BUPTLdy/human-detector.git
