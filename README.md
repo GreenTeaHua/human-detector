@@ -15,7 +15,7 @@ scikit-image
 
 `sudo pip install scikit-image`
 ## 说明
-正样本：pos_person：2416
+正样本：pos_person：2416  
 负样本：neg_person：4146
 
 ## Install
